@@ -6,7 +6,7 @@ const CONFIG = {
     title: 'ANH YÊU VỢ NHẮMM 🥰',
     desc: 'Vợ iu tha lỗi cho anh nháaaaa ',
     btnYes: 'óki <33',
-    btnNo: '',
+    btnNo: 'ko',
     question: 'vợ iu mún anh làm gì cũng được hớt <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'tuần sau mik i chưi nha <33333333',
