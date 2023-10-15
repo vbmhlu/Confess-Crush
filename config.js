@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "",
-    introTitle: 'kính gửi vợ iu: Vũ Hà My',
+    introTitle: 'kbgfbbgfu: Vũ Hà My',
     introDesc: `Anh xin lỗi em vợ dấu iu nhìu nhìu nhắm, bây giờ anh hứa với vợ anh nói là làm mà ko nói cũng làm ạ, anh ko là vợ iu hụt hẫng nữa âu huhu méo meo`,
     btnIntro: '^^HiHi^^',
     title: 'ANH YÊU VỢ NHẮMM 🥰',
